@@ -20,4 +20,4 @@ The Engine is still not able to receive drag and drop elements and not loading 3
 
  Sporadic framelag on moving the camera due to the lack of proper Delta Time implementation.
  
- Implementing Geometry to load 3d meshes  
+ No 3d models/meshes implementation so far.
